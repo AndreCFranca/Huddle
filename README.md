@@ -19,3 +19,7 @@ Landing Page baseada em um dos desafios contidos no site Front-End Mentor (https
 
 <p>Andre França (https://github.com/AndreCFranca)</p>
 <p>Augusto Cesar (https://github.com/AugustoTI)</p>
+
+<h3>Desafio Concluído</h3>
+
+https://andrecfranca.github.io/Huddle/
