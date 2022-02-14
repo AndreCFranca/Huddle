@@ -6,7 +6,7 @@ Landing Page baseada em um dos desafios contidos no site Front-End Mentor (https
 
 <h4>Desafio:</h4>
 
-<a href="https://www.frontendmentor.io/challenges/huddle-landing-page-with-curved-sections-5ca5ecd01e82137ec91a50f2" target="_blank">Huddle landing page with curved sections</a>
+<a href="https://www.frontendmentor.io/challenges/huddle-landing-page-with-curved-sections-5ca5ecd01e82137ec91a50f2">Huddle landing page with curved sections</a>
 
 <h2>DESENVOLVIMENTO:</h2>
 
